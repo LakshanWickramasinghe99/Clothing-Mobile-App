@@ -1,4 +1,4 @@
-# 📱 Project Name
+# 📱 Clothing Mobile App
 
 ## 🖌️ Overview
 This is a mobile application project developed independently, inspired by a conceptual Figma UI design. While the app design takes visual guidance from the Figma layout, all UI elements and components were custom-built during development.
